@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: #f2f2f2;
+}
+
+h1 {
+    font-size: 120px;
+    text-align: center;
+    color: rgba(255, 255, 255, .4);
+}
+
+.parallax-1 {
+    background: url('https://kartinki.pics/uploads/posts/2022-12/1670620932_6-kartinkin-net-p-khimicheskie-kartinki-pinterest-6.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.parallax-2 {
+    background: url('https://otzz.ru/wp-content/uploads/2023/10/krasivye-khimicheskie-opyty-1.webp') no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.parallax-3 {
+    background: url('https://kartinki.pibig.info/uploads/posts/2023-04/1681313862_kartinki-pibig-info-p-kartinki-khimiya-arti-instagram-44.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.parallax-inner {
+    padding: 10% 0;
+}
+
+h2 {
+    font-size: 32px;
+    color: #555;
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 20px 0 10px;
+}
+
+p {
+    font-size: 16px;
+    color: #555;
+    text-align: justify;
+    line-height: 30px;
+    margin: 0 50px 40px;
+}
+
+p:nth-of-type(2),
+p:nth-of-type(3) {
+    margin: 40px 50px;
+}
+
+
+
+
+
+
+
+
+ /* .periodic-table {
+  display: grid;
+  grid-template-columns: repeat(18, 50px);
+  grid-gap: 1px;
+}
+
+.element {
+  border: 1px solid #000;
+  text-align: center;
+  padding: 5px;
+}
+
+.periodic-table {
+  display: grid;
+  grid-template-columns: repeat(18, 50px);
+  grid-gap: 2px;
+}
+
+.element {
+  border: 1px solid #ccc;
+  text-align: center;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  transition: background-color 0.3s ease;
+}
+
+.element:hover {
+  background-color: #e0e0e0;
+}
+
+/* Стилизация групп элементов 
+.element:nth-child(1) { background-color: #5cc500; }
+.element:nth-child(2) { background-color: #ffffff; }
+.element:nth-child(3) { background-color: #ffffff; }
+.element:nth-child(4) { background-color: #ffffff; }
+.element:nth-child(5) { background-color: #ffffff; }
+.element:nth-child(6) { background-color: #ffffff; }
+.element:nth-child(7) { background-color: #fafc6d; }
+.element:nth-child(8) { background-color: #ae84e2; } 
+
+
+
+
+.info-card {
+  display: none;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 5px;
+  background-color: #f9f9f9;
+} */
