@@ -52,6 +52,7 @@ nav li, .panel li {
   position: relative;
   z-index: 10000;
 }
+
 .menu_bar .logo{
   font-size:20px ;
   font-weight: 900;
@@ -433,5 +434,5 @@ input:checked + label .description {
 	letter-spacing: 3px;
 	margin-bottom:10px;
 }
-.footer-bs .footer-ns p { font-size:17px; color:rgba(255,255,255,0.70); }
+.footer-bs .footer-ns p { font-size:1px; color:rgba(255,255,255,0.70); }
 
