@@ -3,6 +3,11 @@
   padding:0;
   box-sizing:border-box;
   font-family:'Montserrat','sans-serif';
+  
+}
+body{
+	overflow-x: hidden;
+
 }
 section{
   padding:4% 10%;
